@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-mag3110-electronic-compass-module-three-axis",
+  "title": "mag3110-electronic-compass-module-three-axis",
+  "keywords": "mag3110-electronic-compass-module-three-axis, esp32, esp8266, arduino",
+  "description": "mag3110-electronic-compass-module-three-axis plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-mag3110-electronic-compass-module-three-axis/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-mag3110-electronic-compass-module-three-axis/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
